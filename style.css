@@ -1,0 +1,10 @@
+:root {
+    --primaty-color: #f96d00;
+    --secondery-color: #f2f2f2;
+    --dark-light: #393e46;
+    --dark-color: #222831;
+}
+
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+}
