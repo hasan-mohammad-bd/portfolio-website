@@ -19,6 +19,7 @@ h1 {
 
 h2 {
     font-size: 40px;
+    margin: 10px 0px;
 }
 
 h3 {
@@ -48,6 +49,10 @@ img {
     size: 100%;
 }
 
+.over-phone {
+    size:40%;
+}
+
 .text, .img-div  {
     margin: auto;
 }
@@ -68,4 +73,12 @@ img {
 .hero-img {
     background-image: url(showOff/hero.jpg);
     background-size: cover;
+}
+
+.hero2 {
+    background-color: rgb(65, 65, 65);
+    background-image: url(showOff/stare.png);
+    background-position: bottom center;
+    background-size: 50%;
+    background-repeat: no-repeat;
 }
